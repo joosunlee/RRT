@@ -8,4 +8,5 @@ RRT Using Python code
 if not start
 --pip uninstall numpy
 --pip uninstall matplotlib
+
 reinstall Lib
